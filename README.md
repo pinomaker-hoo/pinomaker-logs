@@ -9,3 +9,13 @@
 ### Project Logs
 
 1. [모두가 하드캐리 3기 - 버동여지도](project-logs/budmap.md)
+
+### Activity Logs
+
+1. [Nestjs meetup 3rd](activity-logs/nestjs-meetup-3rd.md)
+
+2. [SWYG Serverless Study](activity-logs/swyg-serverless-study.md)
+
+3. [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md)
+
+4. [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md)
