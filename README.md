@@ -8,18 +8,26 @@
 
 ### Project Logs
 
-1. [모두가 하드캐리 3기 - 버동여지도](project-logs/budmap.md)
+- [모두가 하드캐리 3기 - 버동여지도](project-logs/budmap.md)
 
 ### Activity Logs
 
-1. [Nestjs meetup 3rd](activity-logs/nestjs-meetup-3rd.md)
+- [Nestjs meetup 3rd](activity-logs/nestjs-meetup-3rd.md)
 
-2. [SWYG Serverless Study](activity-logs/swyg-serverless-study.md)
+- [SWYG Serverless Study](activity-logs/swyg-serverless-study.md)
 
-3. [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md)
+- [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md)
 
-4. [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md)
+- [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md)
 
 ### Memory Logs
 
-1. [2023.05.09](memory-logs/20230509.md)
+- [2023.05.09](memory-logs/20230509.md)
+
+### Error Logs
+
+- [2023.05.08](error-logs/20230508.md)
+
+- [2023.05.10](error-logs/20230510.md)
+
+- [2023.05.12](error-logs/20230512.md)
