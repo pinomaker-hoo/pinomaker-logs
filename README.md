@@ -19,3 +19,7 @@
 3. [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md)
 
 4. [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md)
+
+### Memory Logs
+
+1. [2023.05.09](memory-logs/20230509.md)
