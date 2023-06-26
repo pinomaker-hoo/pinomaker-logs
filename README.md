@@ -14,11 +14,11 @@
 
 - [Nestjs meetup 3rd](activity-logs/nestjs-meetup-3rd.md)
 
-- [SWYG Serverless Study](activity-logs/swyg-serverless-study.md)
+- [SWYG Serverless Study](activity-logs/swyg-serverless-study.md) - (기록 중)
 
-- [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md)
+- [SWYG 기수제 3기](activity-logs/swyg-meetup-3rd.md) - (기록 예정)
 
-- [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md)
+- [동양미래대학교 전공 동아리 ONE](activity-logs/dmu-one.md) - (기록 예정)
 
 ### Memory Logs
 
