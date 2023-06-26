@@ -8,7 +8,7 @@
 
 ### Project Logs
 
-- [모두가 하드캐리 3기 - 버동여지도](project-logs/budmap.md)
+- [모두가 하드캐리 3기 - 버동여지도](project-logs/budmap.md) - (기록 예정)
 
 ### Activity Logs
 
