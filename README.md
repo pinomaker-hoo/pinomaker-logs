@@ -26,6 +26,8 @@
 
 - [2023.07.04](memory-logs/20230704.md)
 
+- [2023.10.24](memory-logs/20231024.md)
+
 ### Error Logs
 
 - [2023.05.08](error-logs/20230508.md)
