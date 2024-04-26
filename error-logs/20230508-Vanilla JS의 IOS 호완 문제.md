@@ -1,15 +1,4 @@
-# 2023.05.08(월) Error Logs
-
-## 목차
-
-1. Vanilla JS의 IOS 호완 문제
-
-<br />
-<br />
-
-### 1. Vanilla JS의 IOS 호완 문제
-
-<br />
+# Vanilla JS의 IOS 호완 문제 -> 2023.05.08
 
 (1) 개요
 

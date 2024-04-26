@@ -1,15 +1,4 @@
-# 2023.05.10(수) Error Logs
-
-## 목차
-
-1. Ddos Attack and WAF
-
-<br />
-<br />
-
-### 1. Ddos Attack and WAF
-
-<br />
+# Ddos Attack and WAF - 2023.05.10
 
 ```
 회사에서 진행하는 프로젝트에서 나는 인프라 설계 및 구축을 담당하여, AWS의 EC2, Route53, ALB 등을 이용하여 Live를 구축하였는 데, 10일 전 아직 Open 전인 서버가 메모리 부족으로 다운되었다. 그 이유는 알고보니 Ddos 공격으로 인하여 리소스 할당과 Log 파일로 인한 것이였다.
