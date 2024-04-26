@@ -30,8 +30,8 @@
 
 ### Error Logs
 
-- [2023.05.08](error-logs/20230508.md)
+- [2023.05.08 - VinillaJs와 IOS 호완성 문제](error-logs/20230508-Vanilla%20JS의%20IOS%20호완%20문제.md)
 
-- [2023.05.10](error-logs/20230510.md)
+- [2023.05.10 - Ddos Attack and WAF](error-logs/20230510-Ddos%20Attack%20and%20WAF.md)
 
-- [2023.05.12](error-logs/20230512.md)
+- [2023.05.12 - 동시성 문제](error-logs/20230512-동시성%20문제.md)
