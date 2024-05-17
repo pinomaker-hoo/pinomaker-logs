@@ -28,6 +28,8 @@
 
 - [2023.10.24](memory-logs/20231024.md)
 
+- [2024.05.17 - NestJS Quey Param Type 변환](memory-logs/20240517-query-param.md)
+
 ### Error Logs
 
 - [2023.05.08 - VinillaJs와 IOS 호완성 문제](error-logs/20230508-Vanilla%20JS의%20IOS%20호완%20문제.md)
